@@ -1,6 +1,17 @@
-## Routes
+# Program CRUD Sederhana (Data Barang) - CogeIgniter 4
+
+Ini merupakan program CRUD sederhana menggunakan konsep MVC pada Framework CogeIgniter 4.
+
+Untuk menjalankan program ini di localhost :
+
+* Download file atau `clone` repository ini
+* Jalankan composer update pada directory program
+* Import database yang ada di dalam folder `#file-db`
+* Untuk menjalankan `php spark serve`
+<br>
+<br>
 
 ```
-pages/crud
+http://localhost:8080/barang/crud
 ```
-![image](https://user-images.githubusercontent.com/92983457/160263239-3941ab9e-3761-464a-b57b-e028198d687c.png)
+![images](https://user-images.githubusercontent.com/93045470/160459713-a22d61ca-50d7-4bb8-a0e6-2e6176723320.png)
